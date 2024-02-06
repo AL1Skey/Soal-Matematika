@@ -151,7 +151,7 @@ while 1:
 		
 
 		if i>=10:
-			print(' your score is ' , str(n) ,'\n''\n'.join(l))
+			print('\n\n your score is ' , str(n),'\n\n','\n\n'.join(l))
 			break
 
 		i+=1#to increase excercise number iteration
