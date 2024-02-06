@@ -1,4 +1,5 @@
 color a
-"C:\Users\USER\Documents\Python Project\Latihan matematika.py"
+pip install -r requirements.txt
+python "Latihan matematika.py"
 pause
 taskkill /im python.exe /f
